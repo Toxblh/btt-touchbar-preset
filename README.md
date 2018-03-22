@@ -5,11 +5,11 @@ TouchBar BTT preset from Toxblh
 Presets:
 1. Finder - lick: open everywhere Finder with home folder on the screen
 2. Bright up/down - like physically buttons
-3. What now playing for iTunes and Spotify (soon VOX). When pressing: like a next button.
+3. What now playing for iTunes, Spotify and VOX. When pressing: like a next button.
 4. I want a coffee! - Immediately look you Macbook and turn off screen
 5. Weather - Local the weather, need additionally install packages for AppleScripts ([JSON Helper](https://itunes.apple.com/ru/app/json-helper-for-applescript/id453114608?l=en&mt=12) and [Location Helper](https://itunes.apple.com/ru/app/location-helper-for-applescript/id488536386?mt=12)). When press will open the GisMeteo.
 6. Volume up/down - like physically buttons
-7. Play/Pause - Work only with iTunes and Spotify (soon VOX)
+7. Play/Pause - Work only with iTunes, Spotify and VOX
 9. Battery status - show a battery status in percentage and remaining time for life/charge. When pressing - nothing
 10. Time - simple a time. When pressing - nothing
 
