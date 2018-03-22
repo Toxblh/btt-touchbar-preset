@@ -3,7 +3,7 @@ TouchBar BTT preset from Toxblh
 ![TouchBar](docs/TouchBarShot.png?raw=true)
 
 Presets:
-1. Finder - lick: open everywhere Finder with home folder on the screen
+1. Finder - click: open everywhere Finder with home folder on the screen
 2. Bright up/down - like physically buttons
 3. What now playing for iTunes, Spotify and VOX. When pressing: like a next button.
 4. I want a coffee! - Immediately look you Macbook and turn off screen
@@ -18,4 +18,4 @@ My BTT settings:
 ![Screenshot](docs/Screenshot.png?raw=true)
 
 
-If you want to chage icons, resolution the TouchBar is 2170×60 pixels
+If you want to change icons, the resolution the TouchBar is 2170×60 pixels
